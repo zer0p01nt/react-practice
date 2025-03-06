@@ -119,7 +119,7 @@ function Converter() {
       <h1 class='title'>Super Converter</h1>
       <div class='con-select'>
         <select value={index} onChange={onSelect}>
-          <option value='null'>Units</option>
+          <option value='N'>Units</option>
           <option value='0'>Minutes & Hours</option>
           <option value='1'>Km & Miles</option>
         </select>
